@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋</h1>
-<h1 align="center">I'm Ask</h1>
+<h1 align="center">Hi 👋
+I'm Ask</h1>
 <h3 align="center">A Cybernetics student & Embedded developer from Norway.</h3>
 
 - 🌱 I’m currently learning **Machine Learning, SQL and React**
