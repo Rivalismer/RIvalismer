@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋
 I'm Ask</h1>
-<h3 align="center">A Cybernetics student & Computer Vision developer from Norway.</h3>
+<h3 align="center">A PhD Student in Machine Learning for IoT Edge-Devices at DTU.</h3>
 
-- 🌱 I’m currently learning **Multi-modal Deep Learning**
+- 🌱 I’m currently learning **Autonomous Concept Drift Detection \& Adaptation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
